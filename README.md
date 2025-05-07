@@ -1,2 +1,2 @@
-# calculo de uma esfera
+# cálculo de uma esfera
 Primeiro Repositório em Python 
